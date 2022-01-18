@@ -1,0 +1,37 @@
+body{
+    background-color: aquamarine;
+}
+
+footer{
+    background-color: cadetblue;
+}
+
+#uno{
+    background-color:#ff0000;
+}
+
+#dos{
+    background-color:#ff0033;
+}
+
+#tres{
+    background-color:#ff0066;
+}
+
+#cuatro{
+    background-color:#ff0099;
+}
+
+#cinco{
+    background-color:#ff00cc;
+}
+
+#seis{
+    background-color:#ff00ff;
+}
+
+.caja{
+    width: 200;
+    height: 200;
+    margin-bottom: 20;
+}
